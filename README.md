@@ -1,2 +1,0 @@
-# portfolio-python
-aprendizado-python
