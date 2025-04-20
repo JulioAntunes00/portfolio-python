@@ -1,5 +1,7 @@
-#Escreva um loop for que percorra os números de 1 a 20 e imprima apenas os números ímpares.
+# Programa que mostra só os números ímpares de 1 a 20
 
+# Usa o for pra passar por todos os números de 1 a 20
 for numero in range(1,21):
-    if numero % 2 !=0:
+    # Verifica se é ímpar
+    if numero % 2 != 0:
         print(numero)
