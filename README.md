@@ -1,6 +1,6 @@
-# Aprendizado Python 🐍
+# Aprendizado adquirido através da faculdade
 
-Este repositório contém exercícios em Python desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas. O foco principal é praticar lógica de programação e entender os conceitos fundamentais da linguagem.
+Este repositório contém exercícios em várias linguagens desenvolvidas durante o curso de Análise e Desenvolvimento de Sistemas. O foco principal é praticar lógica de programação e entender os conceitos fundamentais da linguagem.
 
 ## 📚 Conteúdo
 
@@ -10,4 +10,4 @@ Cada script contém comentários explicativos para facilitar o entendimento e se
 
 ---
 
-🚀 Feito com dedicação e curiosidade durante o 1º semestre da faculdade.
+🚀 Feito com dedicação e curiosidade durante a faculdade.
